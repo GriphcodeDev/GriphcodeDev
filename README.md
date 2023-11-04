@@ -3,7 +3,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/830771139486679100?theme=dark)](https://discord.com/users/830771139486679100)
 
-I'm a griphcode a student that is fascinated by computers. I like how you can start with nothing and make it into a cool project that you can show to your other programmer friends ;) 
+I'm griphcode, a student that is fascinated by computers. I like how you can start with nothing and make it into a cool project that you can show to your other programmer friends ;) 
 I like to use Neovim or Emacs or even Vscode as my code editor.
 
  ##  Skills and tools 
