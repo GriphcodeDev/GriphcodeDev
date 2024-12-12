@@ -1,4 +1,5 @@
-<h1>Hi 👋, I'm Griphcode</h1>
+# Hi I'm Griphcode <img src="https://github.com/GriphcodeDev/GriphcodeDev/blob/main/oneko_sleep.gif" alt="oneko" style="width: 50px; height: auto;" />
+
 <h3>I love programming and Engineering!</h3> 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/830771139486679100?theme=dark)](https://discord.com/users/830771139486679100)
