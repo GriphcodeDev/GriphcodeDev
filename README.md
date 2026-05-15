@@ -22,9 +22,4 @@ I like to use Neovim or Emacs or even Vscode as my code editor.  <img src="https
   </a>
 </p>
 
-<br />
-
-## My stats 📊
-![Griphcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=griphcodedev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griphcodedev&langs_count=8&theme=tokyonight)
 
