@@ -11,14 +11,14 @@ I like to use Neovim or Emacs or even Vscode as my code editor.  <img src="https
  ##  Skills and tools 🛠️
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python,javascript,bash,react,electron,tauri,html,css,neovim,obsidian,nix,git,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=rust,python,javascript,bash,react,electron,tauri,html,css,neovim,linux,bsd,git,cloudflare" />
   </a>
 </p>
 
 ## Stuff that i want to learn 📚
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,nim,lua" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,docker" />
   </a>
 </p>
 
